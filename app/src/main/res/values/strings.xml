@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">InstaStoriesProject</string>
+    <string name="error_data_text">Could not load data</string>
+</resources>
